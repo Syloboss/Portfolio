@@ -1,0 +1,17 @@
+/* ========== MY ========== */
+
+.my-row {
+    border: 1px solid black;
+    height: 10vh;
+}
+
+.my-col {
+    border: 1px solid red;
+    height: 10vh;
+}
+
+.my-profile-picture {
+    height: 80vh;
+    width: auto;
+    max-height: 100%;
+}
