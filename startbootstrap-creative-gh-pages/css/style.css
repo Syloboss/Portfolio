@@ -1,17 +1,24 @@
 /* ========== MY ========== */
 
 .my-row {
-    border: 1px solid black;
-    height: 10vh;
+    /* border: 1px solid black; */
+    height: auto;
 }
 
 .my-col {
-    border: 1px solid red;
-    height: 10vh;
+    /* border: 1px solid red; */
+    height: auto;
+    justify-content: center;
 }
 
 .my-profile-picture {
-    height: 80vh;
+    height: 400px;
     width: auto;
-    max-height: 100%;
+    border-radius: 10%;
+    display: block;
+    margin: auto;
+}
+
+.my-yh {
+    margin: 10px;
 }
